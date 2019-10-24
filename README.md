@@ -4,4 +4,7 @@ You can use the [editor on GitHub](https://github.com/xiaoxiaomemg/meng.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<a href="https://github.com/xiaoxiaomemg/meng.github.io/blob/master/Love/1/Love.html" class="btn">Love</a>
+
 ### Wish you have a good time
+
