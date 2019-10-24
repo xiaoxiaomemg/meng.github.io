@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Alicia's Blog
+SEOTitle：Alicia's Blog
+sidebar: true
+sidebar-about-description: "Hello"
