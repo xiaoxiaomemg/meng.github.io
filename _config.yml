@@ -1,2 +1,13 @@
   
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+title: xiaoxiaomeng 的 部落格
+header-img: img/dog.jpg
+description: "小小蒙 小声告诉你 她要送你很多星星"
+url: "https://meng.github.io/"
+baseurl: ""
+
+
+#Sidebar settingd
+siderbar: true
+siderbar-about-description:"一闪一闪亮晶晶"
+sidebar-avatar: /img/headPortrait.jpg
